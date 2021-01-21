@@ -6,3 +6,4 @@
 
 - [1.两数之和](https://github.com/Geekhyt/javascript-leetcode/issues/1)
 - [11.盛水最多的容器](https://github.com/Geekhyt/javascript-leetcode/issues/2)
+- [15.三数之和](https://github.com/Geekhyt/javascript-leetcode/issues/3)
