@@ -8,3 +8,4 @@
 - [11.盛水最多的容器](https://github.com/Geekhyt/javascript-leetcode/issues/2)
 - [15.三数之和](https://github.com/Geekhyt/javascript-leetcode/issues/3)
 - [26. 删除排序数组中的重复项](https://github.com/Geekhyt/javascript-leetcode/issues/4)
+- [66. 加一 ](https://github.com/Geekhyt/javascript-leetcode/issues/5)
