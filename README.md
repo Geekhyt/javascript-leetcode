@@ -10,3 +10,7 @@
 - [26. 删除排序数组中的重复项](https://github.com/Geekhyt/javascript-leetcode/issues/4)
 - [66. 加一 ](https://github.com/Geekhyt/javascript-leetcode/issues/5)
 - [283. 移动零 ](https://github.com/Geekhyt/javascript-leetcode/issues/6)
+
+## 链表
+
+- [21. 合并两个有序链表](https://github.com/Geekhyt/javascript-leetcode/issues/7)
