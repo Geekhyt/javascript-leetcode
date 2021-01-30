@@ -14,3 +14,4 @@
 ## 链表
 
 - [21. 合并两个有序链表](https://github.com/Geekhyt/javascript-leetcode/issues/7)
+- [24. 两两交换链表中的节点](https://github.com/Geekhyt/javascript-leetcode/issues/8)
