@@ -25,3 +25,4 @@
 - [94. 二叉树的中序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/13)
 - [144. 二叉树的前序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/14)
 - [145. 二叉树的后序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/15)
+- [100. 相同的树](https://github.com/Geekhyt/javascript-leetcode/issues/16)
