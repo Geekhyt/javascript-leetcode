@@ -19,3 +19,7 @@
 - [141. 环形链表](https://github.com/Geekhyt/javascript-leetcode/issues/9)
 - [206. 反转链表](https://github.com/Geekhyt/javascript-leetcode/issues/10)
 - [876. 链表的中间结点](https://github.com/Geekhyt/javascript-leetcode/issues/11)
+
+## 树
+
+- [94. 二叉树的中序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/13)
