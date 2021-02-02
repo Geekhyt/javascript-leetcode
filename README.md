@@ -29,3 +29,4 @@
 - [101. 对称二叉树](https://github.com/Geekhyt/javascript-leetcode/issues/17)
 - [102. 二叉树的层序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/18)
 - [104. 二叉树的最大深度](https://github.com/Geekhyt/javascript-leetcode/issues/19)
+- [226. 翻转二叉树](https://github.com/Geekhyt/javascript-leetcode/issues/20)
