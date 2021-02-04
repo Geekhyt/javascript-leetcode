@@ -30,3 +30,7 @@
 - [102. 二叉树的层序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/18)
 - [104. 二叉树的最大深度](https://github.com/Geekhyt/javascript-leetcode/issues/19)
 - [226. 翻转二叉树](https://github.com/Geekhyt/javascript-leetcode/issues/20)
+
+## 栈
+
+- [20. 有效的括号](https://github.com/Geekhyt/javascript-leetcode/issues/21)
