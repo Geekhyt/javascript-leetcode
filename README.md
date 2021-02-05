@@ -36,3 +36,7 @@
 - [20. 有效的括号](https://github.com/Geekhyt/javascript-leetcode/issues/21)
 - [84. 柱状图中最大的矩形](https://github.com/Geekhyt/javascript-leetcode/issues/22)
 - [155. 最小栈](https://github.com/Geekhyt/javascript-leetcode/issues/23)
+
+## 贪心
+
+- [55. 跳跃游戏](https://github.com/Geekhyt/javascript-leetcode/issues/24)
