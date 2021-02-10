@@ -48,3 +48,4 @@
 - [46. 全排列](https://github.com/Geekhyt/javascript-leetcode/issues/28)
 - [22. 括号生成](https://github.com/Geekhyt/javascript-leetcode/issues/29)
 - [39. 组合总和](https://github.com/Geekhyt/javascript-leetcode/issues/30)
+- [40. 组合总和 II](https://github.com/Geekhyt/javascript-leetcode/issues/31)
