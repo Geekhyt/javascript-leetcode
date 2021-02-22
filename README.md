@@ -55,3 +55,4 @@
 
 ## 字符串
 - [125. 验证回文串](https://github.com/Geekhyt/javascript-leetcode/issues/35)
+- [344. 反转字符串](https://github.com/Geekhyt/javascript-leetcode/issues/36)
