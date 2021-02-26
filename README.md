@@ -2,6 +2,10 @@
 
 2021 年计划，这个仓库写满 100 篇 LeetCode 题解(JavaScript)。
 
+## 进度
+
+已经完成 50 道。
+
 ## 数组
 
 - [1. 两数之和](https://github.com/Geekhyt/javascript-leetcode/issues/1)
