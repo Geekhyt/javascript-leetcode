@@ -68,3 +68,10 @@
 
 ## 动态规划
 - [70. 爬楼梯](https://github.com/Geekhyt/javascript-leetcode/issues/38)
+- [一口气团灭 6 道股票算法](https://github.com/Geekhyt/javascript-leetcode/issues/45)
+  - 121. 买卖股票的最佳时机
+  - 122. 买卖股票的最佳时机 II
+  - 123. 买卖股票的最佳时机 III
+  - 188. 买卖股票的最佳时机 IV
+  - 309. 最佳买卖股票时机含冷冻期
+  - 714. 买卖股票的最佳时机含手续费
