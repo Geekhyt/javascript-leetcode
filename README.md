@@ -60,6 +60,7 @@
 
 ## 排序
 - [冒泡排序](https://github.com/Geekhyt/javascript-leetcode/issues/39)
+- [插入排序](https://github.com/Geekhyt/javascript-leetcode/issues/40)
 
 ## 动态规划
 - [70. 爬楼梯](https://github.com/Geekhyt/javascript-leetcode/issues/38)
