@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 53 道。
+已经完成 54 道。
 
 ## 数组
 
@@ -82,3 +82,4 @@
 - [198. 打家劫舍](https://github.com/Geekhyt/javascript-leetcode/issues/46)
 - [5. 最长回文子串](https://github.com/Geekhyt/javascript-leetcode/issues/47)
 - [53. 最大子序和](https://github.com/Geekhyt/javascript-leetcode/issues/53)
+- [300. 最长递增子序列](https://github.com/Geekhyt/javascript-leetcode/issues/54)
