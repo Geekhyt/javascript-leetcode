@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 55 道。
+已经完成 56 道。
 
 ## 数组
 
@@ -81,6 +81,7 @@
   - 714.买卖股票的最佳时机含手续费
 - [198. 打家劫舍](https://github.com/Geekhyt/javascript-leetcode/issues/46)
 - [5. 最长回文子串](https://github.com/Geekhyt/javascript-leetcode/issues/47)
-- [53. 最大子序和](https://github.com/Geekhyt/javascript-leetcode/issues/53)
-- [300. 最长递增子序列](https://github.com/Geekhyt/javascript-leetcode/issues/54)
-- [32. 最长有效括号](https://github.com/Geekhyt/javascript-leetcode/issues/55)
+- [53. 最大子序和](https://github.com/Geekhyt/javascript-leetcode/issues/48)
+- [300. 最长递增子序列](https://github.com/Geekhyt/javascript-leetcode/issues/49)
+- [32. 最长有效括号](https://github.com/Geekhyt/javascript-leetcode/issues/50)
+- [64. 最小路径和](https://github.com/Geekhyt/javascript-leetcode/issues/51)
