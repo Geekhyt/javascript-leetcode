@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 54 道。
+已经完成 55 道。
 
 ## 数组
 
@@ -83,3 +83,4 @@
 - [5. 最长回文子串](https://github.com/Geekhyt/javascript-leetcode/issues/47)
 - [53. 最大子序和](https://github.com/Geekhyt/javascript-leetcode/issues/53)
 - [300. 最长递增子序列](https://github.com/Geekhyt/javascript-leetcode/issues/54)
+- [32. 最长有效括号](https://github.com/Geekhyt/javascript-leetcode/issues/55)
