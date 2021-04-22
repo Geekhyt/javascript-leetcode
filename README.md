@@ -85,3 +85,4 @@
 - [300. 最长递增子序列](https://github.com/Geekhyt/javascript-leetcode/issues/49)
 - [32. 最长有效括号](https://github.com/Geekhyt/javascript-leetcode/issues/50)
 - [64. 最小路径和](https://github.com/Geekhyt/javascript-leetcode/issues/51)
+- [62. 不同路径](https://github.com/Geekhyt/javascript-leetcode/issues/52)
