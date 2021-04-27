@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 60 道。
+已经完成 61 道。
 
 ## 数组
 
@@ -89,3 +89,4 @@
 - [221. 最大正方形](https://github.com/Geekhyt/javascript-leetcode/issues/53)
 - [72. 编辑距离](https://github.com/Geekhyt/javascript-leetcode/issues/54)
 - [322. 零钱兑换](https://github.com/Geekhyt/javascript-leetcode/issues/55)
+- [剑指 Offer 42. 连续子数组的最大和](https://github.com/Geekhyt/javascript-leetcode/issues/56)
