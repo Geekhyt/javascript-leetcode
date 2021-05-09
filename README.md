@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 62 道。
+已经完成 63 道。
 
 ## 数组
 
@@ -91,3 +91,4 @@
 - [322. 零钱兑换](https://github.com/Geekhyt/javascript-leetcode/issues/55)
 - [剑指 Offer 42. 连续子数组的最大和](https://github.com/Geekhyt/javascript-leetcode/issues/56)
 - [139. 单词拆分](https://github.com/Geekhyt/javascript-leetcode/issues/57)
+- [887. 鸡蛋掉落](https://github.com/Geekhyt/javascript-leetcode/issues/58)
