@@ -4,17 +4,18 @@
 
 ## 进度
 
-已经完成 64 道。
+已经完成 65 道。
 
 ## 数组
 
 - [1. 两数之和](https://github.com/Geekhyt/javascript-leetcode/issues/1)
+- [剑指 Offer 03. 数组中重复的数字](https://github.com/Geekhyt/javascript-leetcode/issues/60)
 - [11. 盛水最多的容器](https://github.com/Geekhyt/javascript-leetcode/issues/2)
 - [15. 三数之和](https://github.com/Geekhyt/javascript-leetcode/issues/3)
 - [26. 删除排序数组中的重复项](https://github.com/Geekhyt/javascript-leetcode/issues/4)
 - [66. 加一 ](https://github.com/Geekhyt/javascript-leetcode/issues/5)
 - [283. 移动零 ](https://github.com/Geekhyt/javascript-leetcode/issues/6)
-- [剑指 Offer 03. 数组中重复的数字](https://github.com/Geekhyt/javascript-leetcode/issues/60)
+
 
 ## 链表
 
