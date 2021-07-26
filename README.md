@@ -14,6 +14,7 @@
 - [26. 删除排序数组中的重复项](https://github.com/Geekhyt/javascript-leetcode/issues/4)
 - [66. 加一 ](https://github.com/Geekhyt/javascript-leetcode/issues/5)
 - [283. 移动零 ](https://github.com/Geekhyt/javascript-leetcode/issues/6)
+- [剑指 Offer 03. 数组中重复的数字](https://github.com/Geekhyt/javascript-leetcode/issues/60)
 
 ## 链表
 
