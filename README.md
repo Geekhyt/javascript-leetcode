@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 65 道。
+已经完成 66 道。
 
 ## 数组
 
@@ -35,6 +35,7 @@
 - [101. 对称二叉树](https://github.com/Geekhyt/javascript-leetcode/issues/17)
 - [102. 二叉树的层序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/18)
 - [104. 二叉树的最大深度](https://github.com/Geekhyt/javascript-leetcode/issues/19)
+- [160. 相交链表](https://github.com/Geekhyt/javascript-leetcode/issues/61)
 - [226. 翻转二叉树](https://github.com/Geekhyt/javascript-leetcode/issues/20)
 
 ## 栈
