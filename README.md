@@ -25,6 +25,7 @@
 - [141. 环形链表](https://github.com/Geekhyt/javascript-leetcode/issues/9)
 - [206. 反转链表](https://github.com/Geekhyt/javascript-leetcode/issues/10)
 - [876. 链表的中间结点](https://github.com/Geekhyt/javascript-leetcode/issues/11)
+- [160. 相交链表](https://github.com/Geekhyt/javascript-leetcode/issues/61)
 
 ## 树
 
@@ -35,7 +36,6 @@
 - [101. 对称二叉树](https://github.com/Geekhyt/javascript-leetcode/issues/17)
 - [102. 二叉树的层序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/18)
 - [104. 二叉树的最大深度](https://github.com/Geekhyt/javascript-leetcode/issues/19)
-- [160. 相交链表](https://github.com/Geekhyt/javascript-leetcode/issues/61)
 - [226. 翻转二叉树](https://github.com/Geekhyt/javascript-leetcode/issues/20)
 
 ## 栈
