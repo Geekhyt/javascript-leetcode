@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 67 道。
+已经完成 68 道。
 
 ## 数组
 
@@ -27,6 +27,7 @@
 - [876. 链表的中间结点](https://github.com/Geekhyt/javascript-leetcode/issues/11)
 - [160. 相交链表](https://github.com/Geekhyt/javascript-leetcode/issues/61)
 - [25. K 个一组翻转链表](https://github.com/Geekhyt/javascript-leetcode/issues/62)
+- [83. 删除排序链表中的重复元素](https://github.com/Geekhyt/javascript-leetcode/issues/63)
 
 ## 树
 
