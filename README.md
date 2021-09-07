@@ -75,6 +75,10 @@
 - [快速排序](https://github.com/Geekhyt/javascript-leetcode/issues/43)
 - [堆排序](https://github.com/Geekhyt/javascript-leetcode/issues/44)
 
+## DFS
+
+- [200. 岛屿数量](https://github.com/Geekhyt/javascript-leetcode/issues/64)
+
 ## 动态规划
 - [70. 爬楼梯](https://github.com/Geekhyt/javascript-leetcode/issues/38)
 - [一口气团灭 6 道股票算法](https://github.com/Geekhyt/javascript-leetcode/issues/45)
