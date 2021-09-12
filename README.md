@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 70 道。
+已经完成 71 道。
 
 ## 数组
 
@@ -29,6 +29,7 @@
 - [25. K 个一组翻转链表](https://github.com/Geekhyt/javascript-leetcode/issues/62)
 - [83. 删除排序链表中的重复元素](https://github.com/Geekhyt/javascript-leetcode/issues/63)
 - [剑指 Offer 06. 从尾到头打印链表](https://github.com/Geekhyt/javascript-leetcode/issues/65)
+- [面试题 02.02. 返回倒数第 k 个节点](https://github.com/Geekhyt/javascript-leetcode/issues/66)
 
 ## 树
 
