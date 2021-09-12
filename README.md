@@ -28,6 +28,7 @@
 - [160. 相交链表](https://github.com/Geekhyt/javascript-leetcode/issues/61)
 - [25. K 个一组翻转链表](https://github.com/Geekhyt/javascript-leetcode/issues/62)
 - [83. 删除排序链表中的重复元素](https://github.com/Geekhyt/javascript-leetcode/issues/63)
+- [剑指 Offer 06. 从尾到头打印链表](https://github.com/Geekhyt/javascript-leetcode/issues/65)
 
 ## 树
 
