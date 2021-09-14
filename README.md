@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 72 道。
+已经完成 73 道。
 
 ## 数组
 
@@ -16,6 +16,7 @@
 - [66. 加一 ](https://github.com/Geekhyt/javascript-leetcode/issues/5)
 - [283. 移动零 ](https://github.com/Geekhyt/javascript-leetcode/issues/6)
 - [27. 移除元素](https://github.com/Geekhyt/javascript-leetcode/issues/67)
+- [169. 多数元素](https://github.com/Geekhyt/javascript-leetcode/issues/68)
 
 
 ## 链表
