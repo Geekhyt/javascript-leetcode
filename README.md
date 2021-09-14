@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 71 道。
+已经完成 72 道。
 
 ## 数组
 
@@ -15,6 +15,7 @@
 - [26. 删除排序数组中的重复项](https://github.com/Geekhyt/javascript-leetcode/issues/4)
 - [66. 加一 ](https://github.com/Geekhyt/javascript-leetcode/issues/5)
 - [283. 移动零 ](https://github.com/Geekhyt/javascript-leetcode/issues/6)
+- [27. 移除元素](https://github.com/Geekhyt/javascript-leetcode/issues/67)
 
 
 ## 链表
