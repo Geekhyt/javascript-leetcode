@@ -1,5 +1,12 @@
 ## 前端食堂的 LeetCode 题解仓库
 
+[![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#交流)
+[![](https://img.shields.io/badge/公众号-前端食堂-blueviolet)](#交流)
+[![](https://img.shields.io/badge/Juejin-掘金-blue)](https://juejin.im/user/5a2de8a8f265da4320032fc4)
+[![](https://img.shields.io/badge/Weibo-微博-orange)](https://weibo.com/u/2771284557)
+[![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/huo-yi-tong-98)
+[![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://space.bilibili.com/161753278)
+
 2021 年计划，这个仓库写满 100 篇前端面试高频 LeetCode 题解(JavaScript)。
 
 题目序号为 LeetCode 对应题目的序号，题解内有链接跳转到对应题目。
@@ -17,6 +24,8 @@
 - [食堂店小二儿教你学会栈](https://juejin.im/post/6869785753958907912)
 - [前端玩转位运算(N皇后+Vue3位运算应用)](https://juejin.cn/post/6904595258915422215/)
 - [手撕前端面试之经典排序算法 (动图+视频)](https://juejin.cn/post/6932482325159067656)
+
+感谢 Star🌟
 
 ## 进度
 
@@ -123,3 +132,10 @@
 - [139. 单词拆分](https://github.com/Geekhyt/javascript-leetcode/issues/57)
 - [887. 鸡蛋掉落](https://github.com/Geekhyt/javascript-leetcode/issues/58)
 - [279. 完全平方数](https://github.com/Geekhyt/javascript-leetcode/issues/59)
+
+
+## 交流
+
+加我微信: hungryturbo 备注「加群」即可。
+
+![](https://github.com/Geekhyt/front-end-canteen/blob/master/images/new-qrcode.jpg)
