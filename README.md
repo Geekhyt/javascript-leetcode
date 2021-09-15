@@ -2,9 +2,25 @@
 
 2021 年计划，这个仓库写满 100 篇前端面试高频 LeetCode 题解(JavaScript)。
 
+题目序号为 LeetCode 对应题目的序号，题解内有链接跳转到对应题目。
+
+如果你是初学者，可能你需要一份数据结构与算法的入门资料，我之前写过一些文章，如下：
+
+- [前端如何搞定数据结构与算法(先导篇)](https://juejin.im/post/5e9bb8c251882573820998ac)
+- [JavaScript 算法时间、空间复杂度分析](https://juejin.im/post/5ea979085188256d6f267940)
+- [你真的懂递归吗？](https://juejin.im/post/5ec225e26fb9a043761ce4d8)
+- [分治、动态规划、回溯、贪心一锅炖](https://juejin.im/post/5ee4f5bfe51d457b3f4a1fc0#heading-22)
+- [数组回炉重造+6道前端算法面试高频题解](https://juejin.cn/post/6937526265201033230/)
+- [面试链表不再怕](https://juejin.im/post/5f09ede5f265da22eb2a6dcf)
+- [“树”业有专攻](https://juejin.im/post/5ef32453f265da22ef7daad3#heading-14)
+- [从酒桌游戏看二分查找算法](https://juejin.im/post/5f0499c76fb9a07e976bdbc2)
+- [食堂店小二儿教你学会栈](https://juejin.im/post/6869785753958907912)
+- [前端玩转位运算(N皇后+Vue3位运算应用)](https://juejin.cn/post/6904595258915422215/)
+- [手撕前端面试之经典排序算法 (动图+视频)](https://juejin.cn/post/6932482325159067656)
+
 ## 进度
 
-已经完成 73 道。
+已经完成 74 道。
 
 ## 数组
 
@@ -13,10 +29,11 @@
 - [11. 盛水最多的容器](https://github.com/Geekhyt/javascript-leetcode/issues/2)
 - [15. 三数之和](https://github.com/Geekhyt/javascript-leetcode/issues/3)
 - [26. 删除排序数组中的重复项](https://github.com/Geekhyt/javascript-leetcode/issues/4)
-- [66. 加一 ](https://github.com/Geekhyt/javascript-leetcode/issues/5)
-- [283. 移动零 ](https://github.com/Geekhyt/javascript-leetcode/issues/6)
 - [27. 移除元素](https://github.com/Geekhyt/javascript-leetcode/issues/67)
+- [66. 加一 ](https://github.com/Geekhyt/javascript-leetcode/issues/5)
 - [169. 多数元素](https://github.com/Geekhyt/javascript-leetcode/issues/68)
+- [283. 移动零 ](https://github.com/Geekhyt/javascript-leetcode/issues/6)
+- [349. 两个数组的交集](https://github.com/Geekhyt/javascript-leetcode/issues/69)
 
 
 ## 链表
