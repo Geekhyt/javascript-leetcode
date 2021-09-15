@@ -29,7 +29,7 @@
 
 ## 进度
 
-已经完成 75 道。
+已经完成 76 道。
 
 ## 数组
 
@@ -112,6 +112,7 @@
 ## 二分查找
 
 - [33. 搜索旋转排序数组](https://github.com/Geekhyt/javascript-leetcode/issues/70)
+- [35. 搜索插入位置](https://github.com/Geekhyt/javascript-leetcode/issues/71)
 
 ## 动态规划
 - [70. 爬楼梯](https://github.com/Geekhyt/javascript-leetcode/issues/38)
