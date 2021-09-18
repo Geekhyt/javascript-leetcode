@@ -29,7 +29,7 @@
 
 ## 进度
 
-已经完成 76 道。
+已经完成 77 道。
 
 ## 数组
 
@@ -40,6 +40,7 @@
 - [26. 删除排序数组中的重复项](https://github.com/Geekhyt/javascript-leetcode/issues/4)
 - [27. 移除元素](https://github.com/Geekhyt/javascript-leetcode/issues/67)
 - [66. 加一 ](https://github.com/Geekhyt/javascript-leetcode/issues/5)
+- [88. 合并两个有序数组](https://github.com/Geekhyt/javascript-leetcode/issues/72)
 - [169. 多数元素](https://github.com/Geekhyt/javascript-leetcode/issues/68)
 - [283. 移动零 ](https://github.com/Geekhyt/javascript-leetcode/issues/6)
 - [349. 两个数组的交集](https://github.com/Geekhyt/javascript-leetcode/issues/69)
