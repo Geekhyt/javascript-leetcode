@@ -29,7 +29,7 @@
 
 ## 进度
 
-已经完成 82 道。
+已经完成 83 道。
 
 ## 数组
 
@@ -73,6 +73,7 @@
 - [144. 二叉树的前序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/14)
 - [145. 二叉树的后序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/15)
 - [226. 翻转二叉树](https://github.com/Geekhyt/javascript-leetcode/issues/20)
+- [543. 二叉树的直径](https://github.com/Geekhyt/javascript-leetcode/issues/78)
 
 
 ## 栈
