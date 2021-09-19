@@ -29,7 +29,7 @@
 
 ## 进度
 
-已经完成 78 道。
+已经完成 79 道。
 
 ## 数组
 
@@ -98,6 +98,7 @@
 - [125. 验证回文串](https://github.com/Geekhyt/javascript-leetcode/issues/35)
 - [344. 反转字符串](https://github.com/Geekhyt/javascript-leetcode/issues/36)
 - [415. 字符串相加](https://github.com/Geekhyt/javascript-leetcode/issues/37)
+- [58. 最后一个单词的长度](https://github.com/Geekhyt/javascript-leetcode/issues/74)
 
 ## 排序
 - [冒泡排序](https://github.com/Geekhyt/javascript-leetcode/issues/39)
