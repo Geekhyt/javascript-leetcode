@@ -29,7 +29,7 @@
 
 ## 进度
 
-已经完成 80 道。
+已经完成 81 道。
 
 ## 数组
 
@@ -63,14 +63,16 @@
 ## 树
 
 - [94. 二叉树的中序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/13)
-- [144. 二叉树的前序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/14)
-- [145. 二叉树的后序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/15)
+- [98. 验证二叉搜索树](https://github.com/Geekhyt/javascript-leetcode/issues/75)
 - [100. 相同的树](https://github.com/Geekhyt/javascript-leetcode/issues/16)
 - [101. 对称二叉树](https://github.com/Geekhyt/javascript-leetcode/issues/17)
 - [102. 二叉树的层序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/18)
 - [104. 二叉树的最大深度](https://github.com/Geekhyt/javascript-leetcode/issues/19)
+- [110. 平衡二叉树](https://github.com/Geekhyt/javascript-leetcode/issues/76)
+- [144. 二叉树的前序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/14)
+- [145. 二叉树的后序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/15)
 - [226. 翻转二叉树](https://github.com/Geekhyt/javascript-leetcode/issues/20)
-- [98. 验证二叉搜索树](https://github.com/Geekhyt/javascript-leetcode/issues/75)
+
 
 ## 栈
 
