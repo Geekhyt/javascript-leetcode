@@ -29,7 +29,7 @@
 
 ## 进度
 
-已经完成 97 道。
+已经完成 98 道。
 
 ## 数组
 
@@ -81,6 +81,7 @@
 - [590. N 叉树的后序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/90)
 - [589. N 叉树的前序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/91)
 - [111. 二叉树的最小深度](https://github.com/Geekhyt/javascript-leetcode/issues/92)
+- [236. 二叉树的最近公共祖先](https://github.com/Geekhyt/javascript-leetcode/issues/93)
 
 
 ## 栈
