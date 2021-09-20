@@ -29,7 +29,7 @@
 
 ## 进度
 
-已经完成 89 道。
+已经完成 90 道。
 
 ## 数组
 
@@ -127,7 +127,7 @@
 - [52. N皇后 II](https://github.com/Geekhyt/javascript-leetcode/issues/84)
 
 ## 二分查找
-
+- [704. 二分查找](https://github.com/Geekhyt/javascript-leetcode/issues/85)
 - [33. 搜索旋转排序数组](https://github.com/Geekhyt/javascript-leetcode/issues/70)
 - [35. 搜索插入位置](https://github.com/Geekhyt/javascript-leetcode/issues/71)
 
