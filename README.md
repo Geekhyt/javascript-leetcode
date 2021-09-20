@@ -29,7 +29,7 @@
 
 ## 进度
 
-已经完成 92 道。
+已经完成 93 道。
 
 ## 数组
 
@@ -44,6 +44,7 @@
 - [169. 多数元素](https://github.com/Geekhyt/javascript-leetcode/issues/68)
 - [283. 移动零 ](https://github.com/Geekhyt/javascript-leetcode/issues/6)
 - [349. 两个数组的交集](https://github.com/Geekhyt/javascript-leetcode/issues/69)
+- [217. 存在重复元素](https://github.com/Geekhyt/javascript-leetcode/issues/88)
 
 
 ## 链表
