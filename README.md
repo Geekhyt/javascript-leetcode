@@ -29,7 +29,7 @@
 
 ## 进度
 
-已经完成 86 道。
+已经完成 87 道。
 
 ## 数组
 
@@ -115,6 +115,7 @@
 - [归并排序](https://github.com/Geekhyt/javascript-leetcode/issues/42)
 - [快速排序](https://github.com/Geekhyt/javascript-leetcode/issues/43)
 - [堆排序](https://github.com/Geekhyt/javascript-leetcode/issues/44)
+- [剑指 Offer 40. 最小的k个数](https://github.com/Geekhyt/javascript-leetcode/issues/83)
 
 ## DFS
 
