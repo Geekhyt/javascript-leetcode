@@ -29,7 +29,7 @@
 
 ## 进度
 
-已经完成 99 道。
+已经完成 100 道。
 
 ## 数组
 
@@ -92,6 +92,10 @@
 - [155. 最小栈](https://github.com/Geekhyt/javascript-leetcode/issues/23)
 - [739. 每日温度](https://github.com/Geekhyt/javascript-leetcode/issues/74)
 - [1047. 删除字符串中的所有相邻重复项](https://github.com/Geekhyt/javascript-leetcode/issues/80)
+
+## 队列
+
+- [239. 滑动窗口最大值](https://github.com/Geekhyt/javascript-leetcode/issues/95)
 
 ## 贪心
 
