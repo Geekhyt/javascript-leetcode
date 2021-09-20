@@ -29,7 +29,7 @@
 
 ## 进度
 
-已经完成 87 道。
+已经完成 88 道。
 
 ## 数组
 
@@ -120,6 +120,10 @@
 ## DFS
 
 - [200. 岛屿数量](https://github.com/Geekhyt/javascript-leetcode/issues/64)
+
+## 位运算
+
+- [136. 只出现一次的数字](https://github.com/Geekhyt/javascript-leetcode/issues/83)
 
 ## 二分查找
 
