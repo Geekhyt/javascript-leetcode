@@ -29,7 +29,7 @@
 
 ## 进度
 
-已经完成 88 道。
+已经完成 89 道。
 
 ## 数组
 
@@ -124,6 +124,7 @@
 ## 位运算
 
 - [136. 只出现一次的数字](https://github.com/Geekhyt/javascript-leetcode/issues/83)
+- [52. N皇后 II](https://github.com/Geekhyt/javascript-leetcode/issues/84)
 
 ## 二分查找
 
