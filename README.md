@@ -29,7 +29,7 @@
 
 ## 进度
 
-已经完成 90 道。
+已经完成 91 道。
 
 ## 数组
 
@@ -120,6 +120,10 @@
 ## DFS
 
 - [200. 岛屿数量](https://github.com/Geekhyt/javascript-leetcode/issues/64)
+
+## LRU
+
+- [146. LRU 缓存机制](https://github.com/Geekhyt/javascript-leetcode/issues/86)
 
 ## 位运算
 
