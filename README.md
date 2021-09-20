@@ -29,7 +29,7 @@
 
 ## 进度
 
-已经完成 95 道。
+已经完成 96 道。
 
 ## 数组
 
@@ -79,6 +79,7 @@
 - [617. 合并二叉树](https://github.com/Geekhyt/javascript-leetcode/issues/87)
 - [429. N 叉树的层序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/89)
 - [590. N 叉树的后序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/90)
+- [589. N 叉树的前序遍历](https://github.com/Geekhyt/javascript-leetcode/issues/91)
 
 
 ## 栈
