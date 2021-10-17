@@ -127,7 +127,7 @@
 - [归并排序](https://github.com/Geekhyt/javascript-leetcode/issues/42)
 - [快速排序](https://github.com/Geekhyt/javascript-leetcode/issues/43)
 - [堆排序](https://github.com/Geekhyt/javascript-leetcode/issues/44)
-- [剑指 Offer 40. 最小的k个数](https://github.com/Geekhyt/javascript-leetcode/issues/83)
+- [剑指 Offer 40. 最小的k个数](https://github.com/Geekhyt/javascript-leetcode/issues/82)
 
 ## DFS
 
